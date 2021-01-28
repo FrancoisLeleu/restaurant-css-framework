@@ -8,12 +8,30 @@ header {
 }
 div { 
   font-size: 20px;
-
+  margin-top: 20px;
+  margin-bottom: 20px;
+  max-width: 500px;
+  justify-content: center;
+  align-self: center;
 }
+img {
+  justify-content: center;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 
 .container-fluid {
   background-color: aquamarine;
+
+
+}
+
+.container-fluid {
+  row-gap: 10px;
+
 
 
 }
