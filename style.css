@@ -1,0 +1,21 @@
+header {
+  background-image: url("images/nuitarcade.jpg");
+  height: 110px;
+  color: aliceblue;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+}
+div { 
+  font-size: 20px;
+
+}
+
+
+.container-fluid {
+  background-color: aquamarine;
+
+
+}
+
+
