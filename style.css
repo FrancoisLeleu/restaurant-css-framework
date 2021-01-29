@@ -159,15 +159,45 @@ header {
 .item14 {
   margin-top: 20px;
   margin-bottom: 20px;
-  margin-right: 20%;
-  margin-left: 20%;
-  border-radius: 50%;
-  
-
- 
+  margin-right: 5%;
+  margin-left: 5%;
 }
+/*--------------------------------------Page A Propos-------------------------------------------------------------*/
+.container10 {
+  display: grid;
 
-
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr ;
+  margin-top: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  column-gap: 20px;
+  row-gap: 20px;
+}
+.about1 {
+  display: grid;
+  grid-column: 1;
+}
+.about2 {
+  display: grid;
+  grid-column: 2;
+}
+.about3 {
+  display: grid;
+  grid-column: 1;
+  grid-row: 2;
+}
+.about4 {
+  display: grid;
+  grid-column: 2;
+  grid-row: 2;
+}
+.about5 {
+  display: grid;
+  grid-column: 2 ;
+  grid-row: 3;
+  
+}
 
 /*--------------------------------------footer-------------------------------------------------------------*/
 

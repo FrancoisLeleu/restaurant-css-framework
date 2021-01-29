@@ -3,6 +3,8 @@
 
 __Crédits__ :
 
+__Pictures__ :
+
 resto pic by Андрей Гаврилюк, "way of color 31", source : Unsplash
 
 resto 4 pic by michael browning, source Unsplash
@@ -30,5 +32,11 @@ resto 52 pic by mitchell hollander , source Unsplash
 resto 20 pic by steven lasry , source Unsplash
 
 resto 19 pic by bastien nvs , source Unsplash
+
+vin 1 pic by armands brants , source Unsplash
+
+cuisto pic by zahir namane , source Unsplash
+
+Map pic from Google Map.
 
 https://francoisleleu.github.io/restaurant-css-framework/
