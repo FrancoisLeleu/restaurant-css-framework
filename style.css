@@ -3,6 +3,7 @@ html, body {
   margin: 0;
   padding: 0;
 }
+/*--------------------------------------header-------------------------------------------------------------*/
 
 header {
   
@@ -18,6 +19,7 @@ header {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 12px;
 }
+/*--------------------------------------grid page INDEX with 2 panels-------------------------------------------------------------*/
 
 
 .container {
@@ -51,6 +53,54 @@ header {
   grid-column: 2;
   padding-left: 10px;
 }
+
+
+/*--------------------------------------Grid page MENU-------------------------------------------------------------*/
+
+
+.container5 {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 50px 1fr ;
+  grid-row: 1;
+  row-gap: 20px;
+  margin-bottom: 20px;
+}
+.plats {
+  grid-row: 2;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.desserts {
+  grid-row: 3;
+}
+
+.container7  {
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 1px;
+ 
+}
+.boissons {
+    display: grid;
+    grid-column: 1;
+    padding-left: 20px;
+    padding-right: 5px;
+    row-gap: 10px;
+
+}
+
+
+.vins {
+  display: grid;
+  grid-column: 2;
+  padding-left: 5px;
+  padding-right: 20px;
+}
+
+/*--------------------------------------footer-------------------------------------------------------------*/
 
 footer {
   padding-left: 2%;
