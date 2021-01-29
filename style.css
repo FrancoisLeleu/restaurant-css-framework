@@ -104,6 +104,49 @@ header {
   padding-left: 5px;
   padding-right: 20px;
 }
+/*--------------------------------------Gallery pics-------------------------------------------------------------*/
+
+/*------------Intro text---------------*/
+
+.text-center {
+  margin-top: 10px;
+}
+
+/*------------first 3 pics---------------*/
+
+.container8 {
+  display: grid;
+  margin-right: 10px;
+  margin-left: 10px;
+  grid-template-rows: 1fr 1fr 1fr;
+  
+}
+.item5 {
+  display: grid;
+  margin-top: 20px;
+  grid-row: 1;
+  margin-right: 3%;
+  margin-left: 3%;
+}
+.item6 {
+  display: grid;
+  margin-right: 3%;
+  margin-left: 3%;
+  grid-row: 2;
+  height: 150px;
+  row-gap: 20px;
+}
+.item7 {
+  display: grid;
+ 
+  margin-bottom: 20px;
+  margin-right: 3%;
+  margin-left: 3%;
+  grid-row: 3;
+}
+
+
+
 
 /*--------------------------------------footer-------------------------------------------------------------*/
 
