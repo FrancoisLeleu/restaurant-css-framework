@@ -21,10 +21,14 @@ resto 10 pic by nikita tikhomirov , source Unsplash
 
 resto 11 pic by siyuan g , source Unsplash
 
-resto 12 pic by giuseppe-argenziano-6rnN-G_N5Ok-unsplash , source Unsplash
+resto 12 pic by giuseppe argenziano , source Unsplash
 
 resto 13 pic by steven lasry , source Unsplash
 
+resto 52 pic by mitchell hollander , source Unsplash
 
+resto 20 pic by steven lasry , source Unsplash
+
+resto 19 pic by bastien nvs , source Unsplash
 
 https://francoisleleu.github.io/restaurant-css-framework/

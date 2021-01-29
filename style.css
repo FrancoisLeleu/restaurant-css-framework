@@ -138,13 +138,34 @@ header {
 }
 .item7 {
   display: grid;
- 
   margin-bottom: 20px;
   margin-right: 3%;
   margin-left: 3%;
   grid-row: 3;
 }
+.item8, .item9, .item10 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 3%;
+  margin-left: 3%;
+}
 
+.item11, .item12, .item13 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 3%;
+  margin-left: 3%;
+}
+.item14 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-right: 20%;
+  margin-left: 20%;
+  border-radius: 50%;
+  
+
+ 
+}
 
 
 
