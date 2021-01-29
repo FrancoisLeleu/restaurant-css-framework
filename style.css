@@ -53,8 +53,8 @@ header {
 }
 
 footer {
-  padding-left: 20%;
-  padding-right: 20%;
+  padding-left: 2%;
+  padding-right: 2%;
 }
 .container3 {
   position: relative;
@@ -63,7 +63,7 @@ footer {
 }
 .centered {
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
