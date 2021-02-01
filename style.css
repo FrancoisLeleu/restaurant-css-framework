@@ -263,7 +263,7 @@ footer {
   transform: translate(-50%, -50%);
 }
 
-/*--------------------------------------Media Queries-----------Media Queries-----------Media Queries-----------Media Queries-------------------------*/
+/*--------------------------------------Media Queries-----------Media Queries-----------Media Queries-----------Media Queries--------------Media Queries-----------*/
 
 
 @media screen and (min-width: 768px){
@@ -307,7 +307,7 @@ footer {
   }
   footer {
     max-width: 50%;
-    max height: 400px;
+    max-height: 400px;
     margin-left: auto;
     margin-right: auto;
   }
