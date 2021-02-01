@@ -1,9 +1,25 @@
 # restaurant-css-framework
 
+Au Grand Palais :
+==================
 
-__Crédits__ :
+Bonjour, vous trouverez ici mon prototype de site internet en __Bootstrap__.
+Il met en avant le restaurant Au Grand Palais, à Paris et est constitué de :
 
-__Pictures__ :
+- une page d'index constituée de deux panels et d'un Jumbotron
+- d'une page contenant le menu du restaurant
+- d'une page nommée " galerie" renvoyant elle-même à trois autres pages du même nom et contenant chacune des photos de l'établissement.
+- d'une page "A Propos" détaillant les horaires et les coordonnées du restaurant. Expliquant aussi la mission et les aspirations du lieu, pour permettre aux clients de connaitre l'enseigne et son application à les satisfaire au mieux.
+- d'une page de contacte pour signaler tout mécontentement ou doléances éventuelles.
+
+
+# Vous trouverez le projet ici
+
+https://francoisleleu.github.io/restaurant-css-framework/
+
+
+__Crédits photos__ :
+(Toutes libre de droits)
 
 resto pic by Андрей Гаврилюк, "way of color 31", source : Unsplash
 
@@ -39,4 +55,3 @@ cuisto pic by zahir namane , source Unsplash
 
 Map pic from Google Map.
 
-https://francoisleleu.github.io/restaurant-css-framework/

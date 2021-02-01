@@ -192,6 +192,15 @@ header {
   grid-column: 2;
   grid-row: 2;
 }
+.horaire {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 20px;
+}
+#adresse {
+  text-decoration-line: underline;
+}
+
 .about5 {
   display: block;
   margin-left: auto;
@@ -204,13 +213,16 @@ header {
 
 /*-------Forms adjustments-----------*/
 
-form {
+main {
+  padding-top: 4px;
   padding-right: 20px;
   padding-left: 20px;
 }
 
-
-
+form {
+  padding-right: 20px;
+  padding-left: 20px;
+}
 /*--------------------------------------footer-------------------------------------------------------------*/
 
 footer {
