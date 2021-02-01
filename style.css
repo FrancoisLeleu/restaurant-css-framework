@@ -167,7 +167,7 @@ header {
   display: grid;
 
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr ;
+  grid-template-rows: 1fr 1fr;
   margin-top: 20px;
   margin-right: 10px;
   margin-left: 10px;
@@ -193,10 +193,15 @@ header {
   grid-row: 2;
 }
 .about5 {
-  display: grid;
-  grid-column: 2 ;
-  grid-row: 3;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 80%;
   
+
+
 }
 
 /*--------------------------------------footer-------------------------------------------------------------*/
