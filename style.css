@@ -217,6 +217,14 @@ header {
   margin-bottom: 5%;
   width: 80%;
 }
+
+
+.card-body, .card {
+  background-color: beige;
+  ;
+
+
+}
 /*--------------------------------------Contact Page-------------------------------------------------------------*/
 
 /*-------Forms adjustments-----------*/
@@ -318,7 +326,7 @@ footer {
 }
 .plats {
   grid-row: 2;
-  padding-left: 20px;
+  padding-left: 15%;
   padding-right: 20px;
 }
 .meal1 {
@@ -343,15 +351,15 @@ footer {
 .boissons {
     display: grid;
     grid-column: 1;
-    padding-left: 20px;
-    padding-right: 5px;
+    padding-left: 15%;
+    padding-right: 15px;
     row-gap: 10px;
 }
 .vins {
   display: grid;
   grid-column: 2;
   padding-left: 5px;
-  padding-right: 20px;
+  padding-right: 15%;
 }
 
 /*--------------------------------------Gallery pics-------------------------------------------------------------*/
@@ -370,48 +378,61 @@ footer {
   margin-right: auto;
   margin-left: auto;
   grid-template-rows: 1fr 1fr 1fr;
-  
 }
-.item5 {
+/*------------------------------------ABOUT----------------------------*/
+.container10 {
   display: grid;
+  max-width: 50%;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
   margin-top: 20px;
-  grid-row: 1;
-  margin-right: 3%;
-  margin-left: 3%;
-}
-.item6 {
-  display: grid;
-  margin-right: 3%;
-  margin-left: 3%;
-  grid-row: 2;
-  height: 150px;
+  margin-right: auto;
+  margin-left: auto;
+  column-gap: 20px;
   row-gap: 20px;
 }
-.item7 {
-  display: grid;
-  margin-bottom: 20px;
-  margin-right: 3%;
-  margin-left: 3%;
-  grid-row: 3;
+.about5 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  width: 50%;
 }
-.item8, .item9, .item10 {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-right: 3%;
-  margin-left: 3%;
+/*--------------------------------------Contact Page-------------------------------------------------------------*/
+
+/*-------Forms adjustments-----------*/
+
+main {
+  padding-top: 4px;
+  padding-right: 25%;
+  padding-left: 25%;
 }
 
-.item11, .item12, .item13 {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-right: 3%;
-  margin-left: 3%;
+form {
+  padding-right: 25%;
+  padding-left: 25%;
 }
-.item14 {
-  margin-top: 20px;
-  margin-bottom: 20px;
-  margin-right: 5%;
-  margin-left: 5%;
+/*--------------------------------------Footer-------------------------------------------------------------*/
+
+
+.centered {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  font-size: 200%;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  transform: translate(-50%, -50%);
+}
+.centered2 {
+  position: absolute;
+  top: 450px;
+  left: 50%;
+  font-size: 200%;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  transform: translate(-50%, -50%);
 }
 
 }
