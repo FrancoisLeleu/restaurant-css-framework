@@ -20,21 +20,6 @@ https://francoisleleu.github.io/restaurant-css-framework/
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 __Crédits photos__ :
 (Toutes libre de droits)
 
