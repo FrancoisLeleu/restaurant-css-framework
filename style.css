@@ -325,13 +325,24 @@ footer {
 .text-center {
   margin-top: 10px;
 }
-/*------------first 3 pics---------------*/
+/*------------pictures---------------*/
 .container8 {
   display: grid;
   max-width: 50%;
   margin-right: auto;
   margin-left: auto;
   grid-template-rows: 1fr 1fr 1fr;
+}
+h5 {
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
+}
+.item14 {
+  margin-right: auto;
+  margin-left: auto;
+  width: 50%;
+
 }
 /*------------------------------------ABOUT----------------------------*/
 .container10 {
